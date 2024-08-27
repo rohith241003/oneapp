@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rohith241003/oneapp.git/static/css/main.79d19d76.css",
+    "main.js": "/rohith241003/oneapp.git/static/js/main.cebab292.js",
+    "static/js/453.c70a3143.chunk.js": "/rohith241003/oneapp.git/static/js/453.c70a3143.chunk.js",
+    "index.html": "/rohith241003/oneapp.git/index.html",
+    "main.79d19d76.css.map": "/rohith241003/oneapp.git/static/css/main.79d19d76.css.map",
+    "main.cebab292.js.map": "/rohith241003/oneapp.git/static/js/main.cebab292.js.map",
+    "453.c70a3143.chunk.js.map": "/rohith241003/oneapp.git/static/js/453.c70a3143.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.cebab292.js"
+  ]
+}
